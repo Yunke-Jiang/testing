@@ -1,3 +1,3 @@
-# testing1
+# testing2
 This is a test for creating new branches
-set value of 1
+set value of 2
